@@ -1,5 +1,5 @@
 # ECS781P: CLOUD COMPUTING MINI PROJECT
-I have made an app that gets the exchage rates for today using the base currency as USD.
+I have made an app that gets the exchange rates for today using the base currency as USD.
 
 BGN = Bulgarian lev
 NZD = New Zealand dollar
